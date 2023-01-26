@@ -1,0 +1,44 @@
+section.banner {
+    background-image: linear-gradient(
+        rgba(0,0,0,0.9),
+        rgba(0,0,0,0.2)
+        ), url(../img/codfue.jpg);
+    width: 100;
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.txtbanner {
+text-align: center;
+font-size: 5.25rem;
+color: white;
+padding-top: 10%;
+}
+
+.txtbanner2 {
+    text-align: center;
+    font-size: 3rem;
+    color: white;
+    padding-top: 0%;
+}
+
+section.presentacion {
+margin-top: 1%;
+margin-bottom: 5%;
+}
+section.presentacionfoto {
+    margin-top: 1%;
+    margin-bottom: 5%;
+    }
+
+.descripcion {
+    text-align: justify;
+    vertical-align: middle;
+}
+
+.copy {
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
